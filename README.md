@@ -1,2 +1,2 @@
 # Ethannn
-**this is a folder for python learning
+**this is a folder for python learning**
